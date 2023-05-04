@@ -1,5 +1,5 @@
-# Parsons_ML_FinalAsgn3-v1
-Add a function of CountVectorizer, which add features of "count = CountVectorizer(ngram_range=(1, 2),token_pattern=r'\b\w+\b', min_df=20, max_df=200)".
+# Parsons_ML_FinalAsgn3-v1 - option 1
+In the final assignment2, I chose the option 1 with changing the features and and the range for the clusters. I add a function of CountVectorizer, which add features of "count = CountVectorizer(ngram_range=(1, 2),token_pattern=r'\b\w+\b', min_df=20, max_df=200)".
 I was tring to filtering the word that have been frequenctly used. I have also change the range to (1,50), printed out 8 clusters
 --------------------------------------------------
 cluster:  1 - #yum, #almonds, # good
